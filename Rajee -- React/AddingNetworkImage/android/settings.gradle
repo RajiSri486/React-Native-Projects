@@ -1,0 +1,3 @@
+rootProject.name = 'AddingNetworkImage'
+
+include ':app'
